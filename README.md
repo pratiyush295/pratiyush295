@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **pratiyush295@gmail.com**
 
-- ⚡ Fun fact **I think I'm Smart, Handsome, Developer**
+- ⚡ Fun fact **I think I'm Smart, Handsome Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
