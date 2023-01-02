@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Pratiyush Singh</h1>
+<h1 align="center">Hi 👋, I'm Pratiyush Kumar</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
